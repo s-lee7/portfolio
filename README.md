@@ -71,6 +71,6 @@ Hi! I'm Sherlyn, an AI & Computer Science enthusiast currently in my final year 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sherlyn-angelina-lee-6a72b8257/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sherlynangelinalee ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sherlynangelinalee@gmail.com ) 
 
 
-![Visitor Count](https://komarev.com/ghpvc/?username=s-lee7&count=true&style=for-the-badge&color=900C3F)
+
 
 
