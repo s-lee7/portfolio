@@ -1,4 +1,4 @@
-# Sherlyn's Portfolio
+# Portfolio
 
 # 💫 About Me:
 Hey, there! I'm Sherlyn, an AI & Data Science enthusiast currently in my final year at Université Paris-Saclay, pursuing a Double Degree Bachelor's Program in Computer Science and Mathematics, Magistère Program in Computer Science. I have experience in Machine Learning, Data Science, Game Development, and Networks, with a strong foundation in algorithms, software development, and problem-solving.
