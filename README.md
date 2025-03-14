@@ -34,34 +34,34 @@ Hi! I'm Sherlyn, an AI & Computer Science enthusiast currently in my final year 
 ## Projects
 ### Data Science
 
-#### [Bias Reduction in Medical Imaging (_Python | Data Analysis, Bias Mitigation, Data Pipelines_)](https://github.com/...)
+#### [Bias Reduction in Medical Imaging (_Python | Data Analysis, Bias Mitigation, Data Pipelines_)](https://github.com/s-lee7/Bias-Reduction-in-Medical-Imaging.git)
 - In-depth analysis of medical data (NIH Chest X-ray 14) to identify and quantify age/gender biases using the aif360 library.
 - Implementation of pre-processing and post-processing techniques to mitigate biases and improve the fairness of AI models, while maintaining high predictive performance.
 - Construction of a complete AI pipeline integrating the evaluation of the impact of biases on performance.
 
-#### [Medical Survival Prediction with Machine Learning (_Python | Seaborn, Pandas, NumPy, Sklearn_)](https://github.com/...)
+#### [Medical Survival Prediction with Machine Learning (_Python | Seaborn, Pandas, NumPy, Sklearn_)](https://github.com/s-lee7/Medical-Survival-Prediction-with-Machine-Learning.git)
 - Built a robust predictive model on 80,000 medical records and achieved 76% balanced accuracy on the test set with a Logistic Regression classifier by leveraging optimized hyperparameters.
 - Implemented a full pipeline for data preprocessing, feature engineering, and model evaluation, using SMOTE for class imbalance and PCA for dimensionality reduction.
 
-#### [Fake News Detection using Machine Learning (_Python | Natural Language Processing (NLP), Model Optimization, Performance Evaluation_)](https://github.com/...)
+#### [Fake News Detection using Machine Learning (_Python | Natural Language Processing (NLP), Model Optimization, Performance Evaluation_)](https://github.com/s-lee7/Medical-Survival-Prediction-with-Machine-Learning.git)
 - Designed and optimized a complete NLP pipeline for fake news detection, including TF-IDF, tokenization, stop word removal, and hyperparameter optimization.
 - Compared and evaluated different NLP classification models (Logistic Regression, Naïve Bayes, SVM) to identify the highest-performing solution (98.56% accuracy).
 
-#### [Machine Learning for Image Classification (_Python | Pandas, Scikit-learn, Seaborn, PCA_)](https://github.com/...)
+#### [Machine Learning for Image Classification (_Python | Pandas, Scikit-learn, Seaborn, PCA_)](https://github/...)
 - Implemented CNN & SVM models for image classification, comparing their performance on noisy datasets.
 - Explored algorithmic biases by examining the impact of visual features on model accuracy.
 - Experimented with data augmentation (rotation, contrast change, cropping) to improve model generalization.
 
 ### Software Engineering
-#### [“Colt Express” Board Game Digitization (_Java | OOP, JavaSwing, JFrame_)](https://github.com/...)
+#### [“Colt Express” Board Game Digitization (_Java | OOP, JavaSwing, JFrame_)](https://github.com/s-lee7/colt-express-board-game-digitization.git)
 - Developed and executed a comprehensive project plan to recreate the "Colt Express" board game in Java, implementing a Model-View-Controller (MVC) structure. The project involved complex game logic for character actions on the train, enhancing Java skills in game development and interactive UI.
 
-#### [Furfeux (Mansion on Fire) – 2D Labyrinth Game (_Java | Game Development, OOP, Event Handling_)](https://github.com/...)
+#### [Furfeux (Mansion on Fire) – 2D Labyrinth Game (_Java | Game Development, OOP, Event Handling_)](https://github.com/s-lee7/Furfeux-Labyrinth-Game.git)
 - Designed and implemented a Java-based labyrinth game featuring dynamic terrain generation and player resource management.
 - Developed interactive gameplay mechanics, including custom player profiles, score tracking, and obstacle-based pathfinding.
 - Optimized game performance and UI responsiveness, ensuring smooth gameplay.
 
-#### [3D Terrain Simulation (_Processing | 3D Graphics, Simulation, OpenGL_)](https://github.com/...)
+#### [3D Terrain Simulation (_Processing | 3D Graphics, Simulation, OpenGL_)](https://github.com/s-lee7/pylons-in-the-hills-computer-graphics.git)
 - Created a 3D terrain simulation with dynamically generated textured landscapes and interactive elements.
 - Utilized OpenGL rendering techniques to enhance terrain realism and optimize performance.
 
