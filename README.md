@@ -25,11 +25,11 @@ Hey, there! I'm Sherlyn, an AI & Data Science enthusiast currently in my final y
 - Implementation of pre-processing and post-processing techniques to mitigate biases and improve the fairness of AI models, while maintaining high predictive performance.
 - Construction of a complete AI pipeline integrating the evaluation of the impact of biases on performance.
 
-#### [Medical Survival Prediction with Machine Learning (_Python | Seaborn, Pandas, NumPy, Sklearn_)](https://github.com/s-lee7/Detecting-Fake-News-with-Machine-Learning.git)
+#### [Medical Survival Prediction with Machine Learning (_Python | Seaborn, Pandas, NumPy, Sklearn_)](https://github.com/s-lee7/Medical-Survival-Prediction-with-Machine-Learning.git)
 - Built a robust predictive model on 80,000 medical records and achieved 76% balanced accuracy on the test set with a Logistic Regression classifier by leveraging optimized hyperparameters.
 - Implemented a full pipeline for data preprocessing, feature engineering, and model evaluation, using SMOTE for class imbalance and PCA for dimensionality reduction.
 
-#### [Fake News Detection using Machine Learning (_Python | Natural Language Processing (NLP), Model Optimization, Performance Evaluation_)](https://github.com/s-lee7/Medical-Survival-Prediction-with-Machine-Learning.git)
+#### [Fake News Detection using Machine Learning (_Python | Natural Language Processing (NLP), Model Optimization, Performance Evaluation_)](https://github.com/s-lee7/Detecting-Fake-News-with-Machine-Learning.git)
 - Designed and optimized a complete NLP pipeline for fake news detection, including TF-IDF, tokenization, stop word removal, and hyperparameter optimization.
 - Compared and evaluated different NLP classification models (Logistic Regression, Naïve Bayes, SVM) to identify the highest-performing solution (98.56% accuracy).
 
